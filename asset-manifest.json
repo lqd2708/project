@@ -1,13 +1,13 @@
 {
-  "main.css": "/lqd2708/project.git/static/css/main.d06c35db.chunk.css",
-  "main.js": "/lqd2708/project.git/static/js/main.83919b32.chunk.js",
-  "main.js.map": "/lqd2708/project.git/static/js/main.83919b32.chunk.js.map",
-  "static/js/1.5b966dc2.chunk.js": "/lqd2708/project.git/static/js/1.5b966dc2.chunk.js",
-  "static/js/1.5b966dc2.chunk.js.map": "/lqd2708/project.git/static/js/1.5b966dc2.chunk.js.map",
-  "runtime~main.js": "/lqd2708/project.git/static/js/runtime~main.d6be49d2.js",
-  "runtime~main.js.map": "/lqd2708/project.git/static/js/runtime~main.d6be49d2.js.map",
-  "static/css/main.d06c35db.chunk.css.map": "/lqd2708/project.git/static/css/main.d06c35db.chunk.css.map",
-  "index.html": "/lqd2708/project.git/index.html",
-  "precache-manifest.35fa7069ecd49b4801d6d034116b2d8d.js": "/lqd2708/project.git/precache-manifest.35fa7069ecd49b4801d6d034116b2d8d.js",
-  "service-worker.js": "/lqd2708/project.git/service-worker.js"
+  "main.css": "/project/static/css/main.d06c35db.chunk.css",
+  "main.js": "/project/static/js/main.83919b32.chunk.js",
+  "main.js.map": "/project/static/js/main.83919b32.chunk.js.map",
+  "static/js/1.5b966dc2.chunk.js": "/project/static/js/1.5b966dc2.chunk.js",
+  "static/js/1.5b966dc2.chunk.js.map": "/project/static/js/1.5b966dc2.chunk.js.map",
+  "runtime~main.js": "/project/static/js/runtime~main.e733734c.js",
+  "runtime~main.js.map": "/project/static/js/runtime~main.e733734c.js.map",
+  "static/css/main.d06c35db.chunk.css.map": "/project/static/css/main.d06c35db.chunk.css.map",
+  "index.html": "/project/index.html",
+  "precache-manifest.48da8a680b6fd644fbab61a393a8e04f.js": "/project/precache-manifest.48da8a680b6fd644fbab61a393a8e04f.js",
+  "service-worker.js": "/project/service-worker.js"
 }
